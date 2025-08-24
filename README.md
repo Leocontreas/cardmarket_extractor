@@ -1,4 +1,6 @@
 # cardmarket_extractor
-Export your cardmarket Pokemon catalogue as a .csv for further analysis.
+Export your cardmarket Pokémon catalogue as a .csv for further analysis.
 
-Run on your command prompt `python script.py {username} {password}`
+After cloning the script, run on your command prompt
+
+`python script.py {username} {password}`
